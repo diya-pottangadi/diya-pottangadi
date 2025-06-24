@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome 👋
 
-My name is Diya Pottangadi, and I'm currently working as a UI/UX intern!  <br>
+# Hi! My name is Diya Pottangadi, and I'm currently working as a UI/UX intern!  <br>
 I'm a rising junior at New Jersey Institute of Technology, passionate about the developing, innovation, and beautiful design. <br> <br>
 
 🔭 I’m currently working on... <br>
@@ -16,7 +16,6 @@ I'm a rising junior at New Jersey Institute of Technology, passionate about the 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🩵 I LOVE the color blue.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📚 I'm a book worm 🐛 - send me some book recs! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖥️ I love to learn new things, especially in tech :) <br>
-<br>
 
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Connect with me on Linkedin: @diyapottangadi <br>
