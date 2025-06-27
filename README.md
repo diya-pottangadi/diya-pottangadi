@@ -17,9 +17,9 @@ I'm a rising junior at New Jersey Institute of Technology, passionate about the 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; inclusive UX Design
 
 #### ⚡ Fun facts: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🩵 I LOVE the color blue.  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📚 I'm a book worm 🐛 - send me some book recs! <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖥️ I love to learn new things, especially in tech :) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; I LOVE the color blue.  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; I'm a book worm 🐛 - send me some book recs! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; I love to learn new things, especially in tech :) <br>
 
 #### 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Connect with me on Linkedin: @diyapottangadi <br>
