@@ -3,12 +3,14 @@
 ### Hi! My name is Diya Pottangadi, and I'm currently working as a UI/UX intern!  <br>
 I'm a rising junior at New Jersey Institute of Technology, with a keen interest in developing, innovation, and beautiful design. <br> 
 
+View my portfolio website here!
+www.diyapottangadi.com
+
 #### 👩🏾‍🏫 Academics: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; B.S. Computer Science <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Minor in Design of the User Experience
 
 #### 🔭 I’m currently working on... <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎨 finishing my portfolio website, so you can learn all about me! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🦾 a machine learning research project based on recognizing human movement from sensors <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤖 an llm-based interactive agent to... (*coming soon, peek back in a few weeks*) <br>
 
